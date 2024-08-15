@@ -69621,7 +69621,7 @@ r=A.bB(a,s,r).w
 return A.jq(new A.oq(A.hN(A.b([B.B2,A.adE(A.hN(A.b([A.aen(A.b([o,A.adE(A.iD(n,new A.a73(this),new A.um(A.at0(s,s,new A.lH("assets/images/computer_boy.png",s,s)),r.a.b/2,B.fL,s)))],p),B.aK,B.EO,B.b7)],p),B.aK,B.i5,B.b7))],p),B.h6,B.b6,B.b7),s),q.a.b,s)}}
 A.a72.prototype={
 $0(){var s=document.createElement("a")
-s.href="assets/resume/Ibrahim's Resume.pdf"
+s.href="assets/resume/Ibrahim's_Resume.pdf"
 s.download="Ibrahim's Resume"
 s.click()},
 $S:0}
@@ -75372,7 +75372,7 @@ r($,"aD9","aov",()=>new A.Sl(A.aJ(A.ak("kl"))))
 r($,"aCY","aoq",()=>new A.RT())
 s($,"azk","amv",()=>A.n3("^[\\w!#%&'*+\\-.^`|~]+$",!0,!1))
 s($,"aAl","acR",()=>A.ahB())
-r($,"aD2","agc",()=>A.b([A.Tj("https://www.linkedin.com/in/ibrahim-bode-940aab193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app","linkedin"),A.Tj("https://github.com/ibuu31","github"),A.Tj("https://medium.com/@ibrahimbode41","medium"),A.Tj("https://twitter.com/ibrahim_bode?t=DTRmqilHGiIO0XTaguicwA&s=08","twitter")],A.ak("x<D0>")))
+r($,"aD2","agc",()=>A.b([A.Tj("https://www.linkedin.com/in/ibrahim-bode-940aab193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app","linkedin"),A.Tj("https://github.com/ibuu31","github"),A.Tj("https://medium.com/@ibrahimbode41","medium"),A.Tj("https://twitter.com/ibrahim__bode?t=DTRmqilHGiIO0XTaguicwA&s=08","twitter")],A.ak("x<D0>")))
 r($,"aDg","agj",()=>A.b([A.pe("assets/images/partner.jpg","https://play.google.com/store/apps/details?id=com.i2i.partner.charotar","iSMP Partner Application"),A.pe("assets/images/customer.jpg","https://play.google.com/store/apps/details?id=com.i2i.customer.charotar","iSMP Customer Application"),A.pe("assets/images/ChatApp.png","https://github.com/ibuu31/chat_app","Chat Application")],A.ak("x<vh>")))
 r($,"aDf","agi",()=>A.b([A.pe("assets/images/python","https://medium.com/@ibrahimbode41/is-python-still-relevant-to-learn-in-2023-d7b5c0fa83e6","Is Python still relevant to learn in 2023?"),A.pe("assets/images/php","https://medium.com/@ibrahimbode41/why-do-you-need-to-learn-php-in-2023-2b0ae38b42a6","Why do you need to learn PHP in 2023?"),A.pe("assets/images/hated_language","https://medium.com/@ibrahimbode41/most-hated-programming-languages-of-2023-94d50b4b18a4","Most hated programming languages of 2023."),A.pe("assets/images/keys","https://medium.com/@ibrahimbode41/what-are-keys-in-flutter-52dae6ab95b6","What are Keys in Flutter?")],A.ak("x<vh>")))
 s($,"aB6","afX",()=>new A.G())
